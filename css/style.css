@@ -328,7 +328,7 @@ ul.search li a:hover {
 /** banner section **/
 
 .full_bg {
-     background: url(../images/hunnhau.jpg);
+     background: url(../images/circlek.jpg);
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
@@ -402,7 +402,7 @@ ul.search li a:hover {
 }
 
 .banner .carousel-indicators .active {
-     background-color: #e6615a;
+     background-color: #f27f79;
 }
 
 
