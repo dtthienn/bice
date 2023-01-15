@@ -1,4 +1,4 @@
-var point = new Date(1659193200000);
+var point = new Date(1659027600000);
 
 var days, hours, minutes, seconds; // variables for time units
 
